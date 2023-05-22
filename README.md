@@ -15,7 +15,7 @@ We have data of extraction and purification of gold ore. The aim is to develop a
 
 The project is done in VS code with Jupyter Notebook extension.
 
-In this repository you can find the rar with .csv file to perform this analysis.
+In this repository you can find the .rar with .csv file to perform this analysis.
 	  
 To run this project, please download the entire Repo. Click "<> Code" and "Download ZIP"     
 
