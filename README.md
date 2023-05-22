@@ -1,4 +1,4 @@
-# -Predicting-the-amount-of-gold-mined-through-Machine-Learning
+# Predicting-the-amount-of-gold-mined-through-Machine-Learning
 The goal is to develop a model capable to predict the amount of gold extracted from gold ore.
 
 
